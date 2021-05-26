@@ -1,6 +1,0 @@
-module Pods_ride828 {
-  umbrella header "Pods-ride828-umbrella.h"
-
-  export *
-  module * { export * }
-}

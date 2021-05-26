@@ -145,7 +145,6 @@
 				8A04CE5CFF7E75826AA96012 /* Pods-ride828-ride828Tests.debug.xcconfig */,
 				B1735D73EEFFFD8BCBD3A87A /* Pods-ride828-ride828Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -485,6 +484,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = N4RZ9BA5ZN;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = ride828/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -511,6 +511,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = N4RZ9BA5ZN;
 				INFOPLIST_FILE = ride828/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
