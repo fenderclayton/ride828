@@ -1,0 +1,14 @@
+com/ride828/MainApplication.java
+ com.ride828.MainApplication
+ com.ride828.MainApplication$1
+com/ride828/MainActivity.java
+ com.ride828.MainActivity
+com/ride828/BuildConfig.java
+ com.ride828.BuildConfig
+com/ride828/ReactNativeFlipper.java
+ com.ride828.ReactNativeFlipper
+ com.ride828.ReactNativeFlipper$1
+ com.ride828.ReactNativeFlipper$2
+ com.ride828.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
